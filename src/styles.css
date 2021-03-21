@@ -5,12 +5,13 @@
   justify-content: center;
   align-items: center;
   font-size: 50px;
-  margin-top: -3px;
+  margin-top: -25px;
 }
 .form {
   width: 160px;
   height: 40px;
   margin-top: 80px;
+  margin-left: -15px;
 }
 .js-tip {
   font-family: sans-serif;
@@ -72,5 +73,14 @@ body {
   font-size: 20px;
 }
 .js-clock {
-  margin-top: 20px;
+  margin-top: 45px;
+  margin-left: 10px;
+  color:rgb(10, 171, 237);
+  font-size: 29px;
+}
+.js-weather {
+  margin-top: 0px;
+  margin-left: 10px;
+  color:rgb(10, 171, 237);
+
 }
